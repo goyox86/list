@@ -1,0 +1,1 @@
+class Node < Struct.new(:next, :obj) ; end
